@@ -1,2 +1,2 @@
 # tinymap
-tiny map
+coming soon
